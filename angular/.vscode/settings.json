@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/010b4b89-4a45-4d9a-9c46-3b0e63cd8b8d/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Web/sites/nznews",
+    "appService.deploySubpath": "."
+}
