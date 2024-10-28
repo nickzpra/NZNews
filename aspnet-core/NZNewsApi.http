@@ -1,0 +1,13 @@
+@NZNewsApi_HostAddress = http://localhost:5039
+
+GET {{NZNewsApi_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{NZNewsApi_HostAddress}}/todos/1
+Accept: application/json
+
+###
+
+###
